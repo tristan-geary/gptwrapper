@@ -5,6 +5,13 @@ This app first takes ChatGPT and emulates a prompt-answer chat screen.  The twis
 
 ### Screenshot: 
 
+ - Screenshot #1:Large text, displaying the original default tone and professional tone in the second message.
+ - ![Chat Screen](docs/gptwrapper1.png)
+
+ - Screenshot #2: Small text, displaying the casual tone in the first message and the humorous tone in the seconod message.
+ - ![Chat Screen](docs/gptwrapper2.png)
+
+
 ### Setup: 
  - Open local.properties in project and add line of code: OPENAI_AI_Key= "your API key"
  - Add this to your buildConfig in build.gradle (app-level):
