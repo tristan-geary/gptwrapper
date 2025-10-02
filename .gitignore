@@ -1,0 +1,18 @@
+# Local configuration files (API keys, passwords)
+local.properties
+
+# Android build outputs
+/build/
+/app/build/
+
+# Gradle files
+.gradle/
+/gradle/
+
+# IntelliJ/Android Studio files
+*.iml
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
